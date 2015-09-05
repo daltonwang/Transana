@@ -35,8 +35,8 @@
 __author__ = 'David Woods <dwoods@wcer.wisc.edu>'
 
 # Indicate whether DEBUG messages should be shown or not.
-DEBUG = False
-DEBUG2 = False   # Report output
+DEBUG = True
+DEBUG2 = True   # Report output
 if DEBUG:
     print "MessageServer DEBUG is ON!"
 
